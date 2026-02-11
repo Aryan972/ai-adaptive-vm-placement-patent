@@ -33,8 +33,6 @@ Scalable AI-driven orchestration framework
 
 ## 📄 Patent Certificate
 
-## 📄 Patent Certificate
-
 <img src="patent_Certificate.jpeg" width="600"/>
 
 
