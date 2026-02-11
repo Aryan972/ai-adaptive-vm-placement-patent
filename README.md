@@ -1,4 +1,4 @@
-# 🚀 AI-Driven Adaptive Virtual Machine Placement
+# AI-Driven Adaptive Virtual Machine Placement
 ### U.S. Patent Application No. 19-350188
 
 
@@ -31,6 +31,7 @@ Enhanced real-time provisioning decisions
 
 Scalable AI-driven orchestration framework
 
-📄 Documentation
+## 📄 Patent Certificate
 
-The official patent filing certificate is included in this repository.
+![Patent Certificate](patent_certificate.jpg)
+
