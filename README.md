@@ -1,12 +1,12 @@
-# AI-Driven Adaptive Virtual Machine Placement 🌩️🤖
+# AI-Driven Adaptive Virtual Machine Placement
 ### Utilizing GNN, PPO, and RBO for Cloud Optimization
 **U.S. Patent Application No. 19-350188**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 [![Status: Patent Filed](https://img.shields.io/badge/Status-Patent--Filed-blue.svg)]()
 [![Tech: Graph Neural Networks](https://img.shields.io/badge/Tech-GNN-blueviolet.svg)]()
 [![Tech: Reinforcement Learning](https://img.shields.io/badge/Tech-PPO--RL-green.svg)]()
-[![Tech: Hybrid Strategy](https://img.shields.io/badge/Tech-PPO-GNN--RBO-blue.svg)]()
+
 
 ---
 
